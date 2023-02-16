@@ -1,0 +1,9 @@
+.img-container,
+.start-btn-container {
+  display: flex;
+  justify-content: center;
+}
+.img-container img {
+  max-height: 30rem;
+  max-width: 100%;
+}

@@ -1,0 +1,17 @@
+.next-btn {
+  border: 2px solid gray;
+  padding: 0.7rem 2rem;
+  font-weight: bold;
+  border-radius: 5px;
+  margin: 1rem 0;
+  cursor: pointer;
+}
+
+.next-btn:hover {
+  opacity: 0.6;
+}
+
+.btns-container {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.container {
+  /* margin: 0 0.5rem; */
+  max-width: 60%;
+}
+
+.question-text {
+  font-size: 2rem;
+  background-color: #d3b099;
+  border-radius: 5px;
+  text-align: center;
+  padding: 2rem;
+  margin: 1.5rem 0;
+}
